@@ -1,0 +1,1 @@
+#Portfolio is a personal profile website created to show case a little bit of what I can do and test also my knowledge of html, css and a bit of javascript. I hope u find it helpful. My first repo guys I am happy it worked more repos to come. 
